@@ -1,0 +1,43 @@
+---
+title: "COMPUTE 2022"
+description: "Summary of my notes from the conference"
+author:
+  - name: Mrityunjay Kumar
+date: 11-25-2022
+categories: [Conference] 
+image: compute2022.jpg
+draft: false 
+---
+
+COMPUTE is an ACM India conference focused on computer education. This post summarizes my notes from the three days of the conference. 
+
+## Day 1
+
+So much learning was packed in one day! Starting with [Hemangee Kapoor](https://www.linkedin.com/in/hemangee-kapoor-251240/) on DEI activities at ACM, fun-filled, comics-based teaching (__Ullas__), game for teaching linked list ([Sridhar Chimalakonda](https://www.linkedin.com/in/sridharch/)), AI assisted programming ([Sriram Rajamani](https://www.linkedin.com/in/sriram-rajamani-79a467/)), IITM's data science UG program at scale ([Andrew Thangaraj](https://www.linkedin.com/in/andrew-thangaraj-52684286/)), and many more, it was a day extremely well spent. Thank you ACM iSIGCSE!
+
+And , what a beautiful location ([Manipal University Jaipur](https://www.linkedin.com/school/manipal-university-jaipur/))! It is an amazing campus, reflecting the local architecture, very impressive buildings and overall infra.
+
+## Day 2
+The day started with [Prof Smruti Sarangi](https://www.linkedin.com/in/smruti-sarangi-1120286/) talking about how he teaches Computer Architecture and why he does it the way he does it. It was an extremely informative and thought-provoking talk, and very engaging one! Hats off to him.
+
+This was followed by some good paper presentations around pedagogy and course designs by [Arun Raman](https://www.linkedin.com/in/arun-raman16/), [Neeraj Goel](https://www.linkedin.com/in/neerajgoel/), [Manoj Kumar Lal](https://www.linkedin.com/in/manoj-kumar-lal-43724a1/), and [Abhijat Vichare](https://www.linkedin.com/in/abhijat-vichare-8288222/), good ideas shared and discussed passionately!
+
+Post-lunch, we had a brave soul [N S Kumar](https://www.linkedin.com/in/n-s-kumar-8159181a/) doing live coding on stage and showing how data structure should be taught in class! It was amazing to see what he could accomplish in 45 min session, unfazed by so many people looking at his code and pointing out issues :-)
+
+[Brett A. Becker](https://www.linkedin.com/in/brett-a-becker/) had an insightful talk (online) on research-driven teaching and teaching-driven research - how teachers can do research in their classroom, and bring in research into their practice. Very insightful and a must-attend session for all the teachers (do grab a copy of the recording or at least the deck!).
+
+This was followed by two excellent workshops, conducted respectively by [Prof. Viraj Kumar](https://www.dsu.edu.in/dr-viraj-kumar) and [Prof. Venkatesh Choppella](https://www.iiit.ac.in/people/faculty/choppell/). Given cricket match was pretty much a lost cause by then, we had good attendance in the workshop!
+
+Very action-packed day, and great learning throughout the day as expected. 
+
+## Day 3
+The day tarted out with [Yogesh Simmhan](https://www.linkedin.com/in/simmhan/) presenting his ideas and experiences of teaching distributed systems course and the design of the corresponding microspecialization course for AICTE. Very relevant and insightful comments and a good discussion around skills for creation vs. comprehension, a topic close to my heart.
+This was followed by a panel discussion on software engineering course relevance for future software development with [Vinita Gera](https://www.linkedin.com/in/vinita-gera/), [Rajveer Singh Shekhawat](https://www.linkedin.com/in/rajveer57/) , [Sumitha Prashanth](https://www.linkedin.com/in/sumitha-prashanth-9838311b/) , [Atul Kumar](https://www.linkedin.com/in/atul-kumar-0ba442/), [Prof. Dheeraj Sanghi](https://www.linkedin.com/in/dheerajsanghi/), and yours truly. It was a thoroughly enjoyable session well moderated by Vinita, incisive and candid comments by Prof Sanghi set the tone for passionate conversations and hopefully audience felt it was a good use of their time. More on this in a subsequent post. 
+
+Post lunch session was focused on computation thinking in school, how to teach it and [CSPathshala](https://cspathshala.org/), and a good discussion ensued around why, what and how of CT! Very relevant and engaging conversations with __R Venkatesh__]()__, [Chandan Dasgupta](https://www.linkedin.com/in/dasguptachandan/) , [Meenakshi D'Souza](https://www.linkedin.com/in/meenakshi-d-souza-693aa934/), and [Sabitha Vinod](https://www.linkedin.com/in/sabitha-vinod-1391905/). 
+
+I had a great discussion with a few professors who teach BSc CS at colleges around why industry discriminates against these grads even though they study the same thing as BTech folks (this spilled over from our panel discussion where this was brought up). Definitely an area for industry to look into, and I hope to do my bit to help here, more on this topic in a subsequent post.  
+
+This has been an awesome experience, an extreme learning dose, for me personally, and I am enthused about my research. I made many friends and hope to continue this relationship to benefit mutually and the community and make the ties stronger! I got lots of ideas on what can be done to grow the community through the interactions over these three days and I hope I can help drive some of them. Thank you [ACM India](https://www.linkedin.com/company/indiaacm/) and [ACM iSIGCSE](https://www.linkedin.com/in/acm-isigcse-a9023220b/) for a great forum, really appreciate this.
+COMPUTE comes to Hyderabad next year, Profs. [Tilottama Goswami](https://www.linkedin.com/in/tilottama-goswami-030048120/) and __Venkatesh Choppella__ told as at the closure.
+

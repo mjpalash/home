@@ -1,0 +1,24 @@
+project:
+  title: "home"
+  output-dir: docs
+  type: website
+  preview: 
+      port: 8989
+
+website:
+  navbar:
+    title: Mrityunjay
+    search: true
+    pinned: true
+    left:      
+      - posts.qmd # add your posts.qmd file to your navbar!
+
+format:
+  html:
+    theme: 
+      - materia
+    html-math-method: katex
+    smooth-scroll: true
+    anchor-sections: true
+    page-layout: full    
+    toc-location: right

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "home",
+    "section": "",
+    "text": "My name is Mrityunjay Kumar (MJ). I am a PhD student (Part-time) at IIIT Hyderabad Software Engineering Research Center. I am also a full-time employee (currently on sabbatical) at Zenoti, a category leader Enterprise SaaS product company in beauty and wellness vertical."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "COMPUTE 2022\n\n\n\n\n\n\n\nConference\n\n\n\n\nSummary of my notes from the conference\n\n\n\n\n\n\nNov 25, 2022\n\n\nMrityunjay Kumar\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/COMPUTE-2022/index.html",
+    "href": "posts/COMPUTE-2022/index.html",
+    "title": "COMPUTE 2022",
+    "section": "",
+    "text": "COMPUTE is an ACM India conference focused on computer education. This post summarizes my notes from the three days of the conference."
+  },
+  {
+    "objectID": "posts/COMPUTE-2022/index.html#day-1-compute-22-what-a-day",
+    "href": "posts/COMPUTE-2022/index.html#day-1-compute-22-what-a-day",
+    "title": "COMPUTE 2022",
+    "section": "Day 1 COMPUTE ’22, what a day!",
+    "text": "Day 1 COMPUTE ’22, what a day!\nSo much learning was packed in one day! Starting with Hemangee Kapoor on DEI activities at ACM, fun-filled, comics-based teaching (Ullas), game for teaching linked list (Sridhar Chimalakonda), AI assisted programming (Sriram Rajamani), IITM’s data science UG program at scale (Andrew Thangaraj), and many more, it was a day extremely well spent. Thank you ACM iSIGCSE!\nAnd , what a beautiful location (Manipal University Jaipur)! It is an amazing campus, reflecting the local architecture, very impressive buildings and overall infra."
+  },
+  {
+    "objectID": "posts/COMPUTE-2022/index.html#day-1",
+    "href": "posts/COMPUTE-2022/index.html#day-1",
+    "title": "COMPUTE 2022",
+    "section": "Day 1",
+    "text": "Day 1\nSo much learning was packed in one day! Starting with Hemangee Kapoor on DEI activities at ACM, fun-filled, comics-based teaching (Ullas), game for teaching linked list (Sridhar Chimalakonda), AI assisted programming (Sriram Rajamani), IITM’s data science UG program at scale (Andrew Thangaraj), and many more, it was a day extremely well spent. Thank you ACM iSIGCSE!\nAnd , what a beautiful location (Manipal University Jaipur)! It is an amazing campus, reflecting the local architecture, very impressive buildings and overall infra."
+  },
+  {
+    "objectID": "posts/COMPUTE-2022/index.html#day-2",
+    "href": "posts/COMPUTE-2022/index.html#day-2",
+    "title": "COMPUTE 2022",
+    "section": "Day 2",
+    "text": "Day 2\nThe day started with Prof Smruti Sarangi talking about how he teaches Computer Architecture and why he does it the way he does it. It was an extremely informative and thought-provoking talk, and very engaging one! Hats off to him.\nThis was followed by some good paper presentations around pedagogy and course designs by Arun Raman, Neeraj Goel, Manoj Kumar Lal, and Abhijat Vichare, good ideas shared and discussed passionately!\nPost-lunch, we had a brave soul N S Kumar doing live coding on stage and showing how data structure should be taught in class! It was amazing to see what he could accomplish in 45 min session, unfazed by so many people looking at his code and pointing out issues :-)\nBrett A. Becker had an insightful talk (online) on research-driven teaching and teaching-driven research - how teachers can do research in their classroom, and bring in research into their practice. Very insightful and a must-attend session for all the teachers (do grab a copy of the recording or at least the deck!).\nThis was followed by two excellent workshops, conducted respectively by Prof. Viraj Kumar and Prof. Venkatesh Choppella. Given cricket match was pretty much a lost cause by then, we had good attendance in the workshop!\nVery action-packed day, and great learning throughout the day as expected."
+  },
+  {
+    "objectID": "posts/COMPUTE-2022/index.html#day-3",
+    "href": "posts/COMPUTE-2022/index.html#day-3",
+    "title": "COMPUTE 2022",
+    "section": "Day 3",
+    "text": "Day 3\nThe day tarted out with Yogesh Simmhan presenting his ideas and experiences of teaching distributed systems course and the design of the corresponding microspecialization course for AICTE. Very relevant and insightful comments and a good discussion around skills for creation vs. comprehension, a topic close to my heart. This was followed by a panel discussion on software engineering course relevance for future software development with Vinita Gera, Rajveer Singh Shekhawat , Sumitha Prashanth , Atul Kumar, Prof. Dheeraj Sanghi, and yours truly. It was a thoroughly enjoyable session well moderated by Vinita, incisive and candid comments by Prof Sanghi set the tone for passionate conversations and hopefully audience felt it was a good use of their time. More on this in a subsequent post.\nPost lunch session was focused on computation thinking in school, how to teach it and CSPathshala, and a good discussion ensued around why, what and how of CT! Very relevant and engaging conversations with R Venkatesh]()__, Chandan Dasgupta , Meenakshi D’Souza, and Sabitha Vinod.\nI had a great discussion with a few professors who teach BSc CS at colleges around why industry discriminates against these grads even though they study the same thing as BTech folks (this spilled over from our panel discussion where this was brought up). Definitely an area for industry to look into, and I hope to do my bit to help here, more on this topic in a subsequent post.\nThis has been an awesome experience, an extreme learning dose, for me personally, and I am enthused about my research. I made many friends and hope to continue this relationship to benefit mutually and the community and make the ties stronger! I got lots of ideas on what can be done to grow the community through the interactions over these three days and I hope I can help drive some of them. Thank you ACM India and ACM iSIGCSE for a great forum, really appreciate this. COMPUTE comes to Hyderabad next year, Profs. Tilottama Goswami and Venkatesh Choppella told as at the closure."
+  },
+  {
+    "objectID": "home.html#phd-focus",
+    "href": "home.html#phd-focus",
+    "title": "home",
+    "section": "PhD Focus",
+    "text": "PhD Focus\nFor my PhD, I am focusing on understanding why new college hires in SaaS product companies take time to become productive, and how an undergraduate CS education can be augmented to equip them to do better. The problem statement comes from my personal experience of hiring and managing campus (and 1-3 years experienced) candidates and working with other managers who do so. My thesis is intended to devise a pedagogical approach to teach modeling and other skills required to address this problem, and demonstrate that such interventions can work well. We believe pedagogy of Algodynamics can be a good starting point."
+  },
+  {
+    "objectID": "home.html#research-interests",
+    "href": "home.html#research-interests",
+    "title": "home",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am interested in education research in general, and Computer Science Education in particular - teaching, learning and curriculum aspects. I love to teach, coach and mentor - professionally and personally.\nUnder the guidance of my adviser Prof. Venkatesh Choppella, I have been studying learning theories applicable to Virtual Labs, applying pedagogy of Algodynamics to teaching algorithms, and most recently, formulating an approach to teach application software modeling through Algodynamics.\nGoogle Scholar"
+  },
+  {
+    "objectID": "home.html#other-interests",
+    "href": "home.html#other-interests",
+    "title": "home",
+    "section": "Other Interests",
+    "text": "Other Interests\nI am interested in many other areas, you can find my writings about Career Management and Being Critical here. I am involved with startup community in a limited fashion, currently working as a volunteer to curate annual SaasBoomi build event, a community-driven, founder-helping-founder ecosystem for SaaS companies in India to help build a product nation. I also help out a little bit around career counselling and teaching with Udayancare Hyderabad chapter and hope to do much more in this space.\nMy LinkedIn profile shows my professional interests and experience."
+  }
+]
