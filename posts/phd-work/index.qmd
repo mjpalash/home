@@ -17,7 +17,7 @@ My research examines 3 questions:
 2. How does current undergraduate computing education prepare novice engineers for this activity?
 3. What can help novice engineers comprehend large products faster and better?
 
-My personal observation over last several years at a large SaaS product company shows that novice engineers face a challenge when comprehending large software products. This is also borne by several research studies which show that it takes up to two years to gain mastery over a product (see @zhou2010developer and @sim1998ramp). 
+My personal observation over last several years at a large SaaS product company is that novice engineers find it really hard to comprehend large software products. This is also borne by several research studies which show that it takes up to two years to gain mastery over a product (see @zhou2010developer and @sim1998ramp). 
 
 # Research direction
 I am looking at three aspects of this problem and seek solutions: 
