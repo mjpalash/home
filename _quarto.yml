@@ -12,7 +12,7 @@ website:
     pinned: true
     left:      
       - posts.qmd # add your posts.qmd file to your navbar!
-
+  open-graph: true
 format:
   html:
     theme: 
