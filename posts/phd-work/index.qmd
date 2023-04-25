@@ -1,0 +1,32 @@
+---
+title: "PhD Research work"
+description: "A brief description of my research work"
+author:
+  - name: Mrityunjay Kumar
+date: 04-25-2023
+categories: [Research] 
+image: destination.jpg
+draft: false 
+bibliography: references.bib
+
+---
+# Research problem
+My research examines 3 questions: 
+
+1. Why do new campus hires (I am calling them novice engineer) struggle and take time in understanding large products they are supposed to work on?
+2. How does current undergraduate computing education prepare novice engineers for this activity?
+3. What can help novice engineers comprehend large products faster and better?
+
+My personal observation over last several years at a large SaaS product company shows that novice engineers face a challenge when comprehending large software products. This is also borne by several research studies which show that it takes up to two years to gain mastery over a product (see @zhou2010developer and @sim1998ramp). 
+
+# Research direction
+I am looking at three aspects of this problem and seek solutions: 
+
+1. What are the challenges novice engineers face (during onboarding and after) as they comprehend? Mostly talking to these engineers as well as students in their 3rd/4th year, surveying them, etc. 
+2. What courses in undergraduate CS curriculum are likely to help them? Are they doing so? This is mostly about going through various courses, what is typically covered, and see how they can help, and what gaps are apparent. 
+3. Are there skills and approaches that can help these novice engineers comprehend better? Here my goal is to see the applicability of a systems approach to modeling software. 
+
+# Research contribution
+In [SERC@IIITH](https://serc.iiit.ac.in/), we have been applying an approach to teaching and learning algorithms that we call Algodynamics (see @choppella2021algodynamics). The idea is that when you think of algorithms as systems, and then model them as interactive systems, you get much better understanding and insights. You can read more about it on the [Algodynamics page](https://algodynamics.org/) and see [some demos](https://algodynamics.io/)). 
+
+Our hypothesis is that we can think of a software product as a system and model its behavior accordingly. My work is focused on showing how this can be done for large systems and what principles can be learned and used by novice engineers to address comprehension problem well. Of course, this also applies when they build new software systems.  
