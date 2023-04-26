@@ -11,6 +11,8 @@ bibliography: references.bib
 open-graph: true
 
 ---
+![](destination.jpg){width=50% fig-align="center" fig-alt="View of a lake, and a house at the far end"}
+
 # Research problem
 My research examines 3 questions: 
 
