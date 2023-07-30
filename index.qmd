@@ -2,7 +2,7 @@ My name is Mrityunjay Kumar (MJ). I am a PhD student (Part-time) at [IIIT Hydera
 
 ## PhD Focus
 
-For my PhD, I am focusing on understanding why new college hires in SaaS product companies take time to become productive, and how an undergraduate CS education can be augmented to equip them to do better. The problem statement comes from my personal experience of hiring and managing campus (and 1-3 years experienced) candidates and working with other managers who do so. My thesis is intended to devise a pedagogical approach to teach modeling and other skills required to address this problem, and demonstrate that such interventions can work well. We believe pedagogy of Algodynamics can be a good starting point. 
+For my PhD, I am focusing on understanding why new college hires in SaaS product companies take time to become productive, and how an undergraduate CS education can be augmented to equip them to do better. The problem statement comes from my personal experience of hiring and managing campus (and 1-3 years experienced) candidates and working with other managers who do so. My thesis is intended to devise a pedagogical approach to teach modeling and other skills required to address this problem, and demonstrate that such interventions can work well. We believe pedagogy of [Algodynamics](https://algodynamics.org/) can be a good starting point. 
 
 ## Research Interests
 
