@@ -21,7 +21,7 @@ To be clear, gaining mastery over the product is indeed a time-consuming task (@
 Over last decade, I have hired students from campus and closely observed their struggle to comprehend software systems. While I initially attributed this to their lack of motivation to learn appropriate skills in college, I now hypothesize that the skills needed to do well at these comprehension tasks are not included or taught well in the regular computer science courses at the undergraduate level. My research examines this further. 
 
 
-While I think this is a world-wide problem, my research focus is on Indian context where this shows up in an extreme form. When we lament the lack of employability and gap of skills (@employability_2019, @isr_2022), and then get drawn to offering industry-tailored skills as a solution, we perpetrate the problem. My research aims to identify key changes that can be brought to curriculum and pedagogy to address this with a long-term view. 
+I think this is a world-wide problem. However, my research focus is on Indian context where this shows up in an extreme form. When we lament the lack of employability and gap of skills (@employability_2019, @isr_2022), and then get drawn to offering industry-tailored skills as a solution, we perpetrate the problem. My research aims to identify key changes that can be brought to curriculum and pedagogy to address this with a long-term view. 
 
 
 # Why does this problem exist?
