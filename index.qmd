@@ -1,8 +1,8 @@
-My name is Mrityunjay Kumar (MJ). I am a PhD student (Part-time) at [IIIT Hyderabad Software Engineering Research Center](https://serc.iiit.ac.in/). I am also a full-time employee (currently on sabbatical) at [Zenoti](https://www.zenoti.com/), a category leader Enterprise SaaS product company in beauty and wellness vertical. 
+My name is Mrityunjay Kumar (MJ). I am a PhD student at [IIIT Hyderabad Software Engineering Research Center](https://serc.iiit.ac.in/). I am also a full-time employee (currently on sabbatical) at [Zenoti](https://www.zenoti.com/), a category leader Enterprise SaaS product company in beauty and wellness vertical. 
 
 ## PhD Focus
 
-For my PhD, I am focusing on understanding why new college hires in SaaS product companies take time to become productive, and how an undergraduate CS education can be augmented to equip them to do better. The problem statement comes from my personal experience of hiring and managing campus (and 1-3 years experienced) candidates and working with other managers who do so. My thesis is intended to devise a pedagogical approach to teach modeling and other skills required to address this problem, and demonstrate that such interventions can work well. We believe pedagogy of [Algodynamics](https://algodynamics.org/) can be a good starting point. 
+For my PhD, I am focusing on understanding why new college hires in SaaS product companies struggle and take time to become productive, and how an undergraduate CS education can be augmented to equip them to do better. The problem statement comes from my personal experience of hiring and managing campus (and 1-3 years experienced) candidates and working with other managers who do so. My thesis is intended to devise a pedagogical approach to teach skills required to address this problem, and demonstrate that such interventions can work well. We believe pedagogy of [Algodynamics](https://algodynamics.org/) can be a good starting point. More details about my thesis can be found on [my post here](/posts/phd-work-2024/). 
 
 ## Research Interests
 
@@ -14,6 +14,6 @@ Under the guidance of my adviser [Prof. Venkatesh Choppella](https://faculty.iii
 
 ## Other Interests
 
-I am interested in many other areas, you can find my writings about [Career Management](https://careerbloom.org/) and [Being Critical](https://palash.com/)  here. I am involved with startup community in a limited fashion, currently working as a volunteer to curate annual [SaasBoomi build](https://saasboomi.com/build/) event, a community-driven, founder-helping-founder ecosystem for SaaS companies in India to help build a product nation. I also help out a little bit around career counselling and teaching with [Udayancare Hyderabad chapter](https://www.udayancare.org/chapterpage/telangana/hyderabad) and hope to do much more in this space.  
+I am interested in many other areas, you can find me write about [Career Management](https://careerbloom.org/) and [Being Critical](https://palash.com/). I am involved with startup community in a limited fashion, currently working as a volunteer with [SaasBoomi](https://saasboomi.com), a community-driven, founder-helping-founder ecosystem for SaaS companies in India to help build a product nation. I also help out a little bit around career counselling and teaching with [Udayancare Hyderabad chapter](https://www.udayancare.org/chapterpage/telangana/hyderabad) and hope to do much more in this space.  
 
 My [LinkedIn profile](https://www.linkedin.com/in/mrityunjaykumar/) shows my professional interests and experience.
